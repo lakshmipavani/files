@@ -1,7 +1,9 @@
-{firstname:'pavani',
-lastname:'kota',
-age:28,
-projects:{
-name:'smartcity',
-  id:1
+{
+  "firstname": "pavani",
+  "lastname": "kota",
+  "age": 28,
+  "projects": {
+    "name": "smartcity",
+    "id": 1
+  }
 }
